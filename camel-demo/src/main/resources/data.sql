@@ -1,0 +1,23 @@
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Notebook Core i7 / 8GB RAM / 1TB HDD + 128GB SSD / GPU 2GB / 15.6" Lenovo', 599990, 1);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Campana convencional 170 W silver Fensa', 39990, 1);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Set de llaves chicharra 3 unidades Bahco', 18990, 1);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Acuario para camarones 30 litros Fluval', 169990, 1);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Piso bar 70x39x39 cm café HC', 19990, 1);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Macbook pro 13.3" 2x2gb 500gb Apple', 699990, 2);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Carpa 8 personas Klimber Plus', 219990, 2);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Piso bar 67x39x46 cm negro Asenti', 19990, 2);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Campana decorativa 160 W inox Albin Trotter', 199990, 3);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Carpa 5 personas Klimber', 39990, 3);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Bicicleta aro27 1/2 aliminio hombre Klimber', 99990, 3);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Ultrabook Gram Core i5 / 8GB RAM / 128GB SSD / 14" LG', 999990, 4);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Bicicleta MTB aluminio aro 27,5" azul Bianchi', 399990, 4);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Bicicleta 26 stone mountain sx azulBianchi', 169990, 5);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Set de dados 30 unidades Stanley - Fatmax', 69990, 6);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Acuario con accesorios 19 litros Fluval', 85490, 6);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Lavadora y secadora frontal 22 kg 13 kg negro Samsung', 1029990, 6);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Campana convencional 125 W inox Albin Trotter', 59990, 6);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Silla bar tela vintage Just Home Collection', 39990, 6);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Filtro externo para acuario 1500 litros Fluval', 240000, 7);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Carpa 4 personas Klimber', 24990, 7);
+INSERT INTO demo.detalle_documento(nombre, valor, id_documento)VALUES('Juego para mecánica mando 1/2" 27 piezas Ubermann', 44990, 8);
+
