@@ -13,5 +13,5 @@ $ java -jar rest-demo-0.0.1-SNAPSHOT.jar
 
 Endpoint
 ```
-http://127.0.0.1:8888/repo/documento/2
+http://127.0.0.1:8888/repo/documento/{id}
 ```
